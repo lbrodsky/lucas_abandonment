@@ -11,14 +11,20 @@ Python tutorials: https://geoforall.fsv.cvut.cz/st_lucas/api/tutorials.html
 <br>
 Use cases: 
 Access: https://geoforall.fsv.cvut.cz/st_lucas/api/notebooks/01_st_lucas_access.html 
+<br>
 Land Cover validation https://geoforall.fsv.cvut.cz/st_lucas/api/notebooks/02_land_cover_validation.html 
+<br>
 LUCAS analysis: https://geoforall.fsv.cvut.cz/st_lucas/api/notebooks/03_lucas_analyze.html 
-Abandoned land analysis TODO
-
+<br>
+Abandoned land analysis: Notebook in this repo. 
+<br>
 QGIS plugin: https://geoforall.fsv.cvut.cz/st_lucas/qgis_plugin/ 
-
-Git: 
+<br>
+Git:
+<br>
 https://gitlab.com/geoharmonizer_inea/st_lucas/st_lucas-system-deployment 
+<br>
 https://gitlab.com/geoharmonizer_inea/st_lucas/st_lucas-python-package
+<br>
 https://gitlab.com/geoharmonizer_inea/st_lucas/st_lucas-qgis-plugin 
 
