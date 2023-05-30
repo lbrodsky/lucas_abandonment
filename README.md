@@ -1,8 +1,14 @@
-# Abandoned land analysis with ST_LUCAS 
+## Abandoned land analysis with ST_LUCAS 
+<br>
 
+### ST_LUCAS system
 Home page: https://geoforall.fsv.cvut.cz/st_lucas/ 
+<br>
 Python API: https://geoforall.fsv.cvut.cz/st_lucas/api/ 
+<br>
 Python tutorials: https://geoforall.fsv.cvut.cz/st_lucas/api/tutorials.html 
+<br>
+<br>
 Use cases: 
 Access: https://geoforall.fsv.cvut.cz/st_lucas/api/notebooks/01_st_lucas_access.html 
 Land Cover validation https://geoforall.fsv.cvut.cz/st_lucas/api/notebooks/02_land_cover_validation.html 
